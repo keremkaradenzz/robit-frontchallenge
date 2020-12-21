@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robit-frontchallenge/static/css/main.77062605.chunk.css",
+    "main.js": "/robit-frontchallenge/static/js/main.0ec8e438.chunk.js",
+    "main.js.map": "/robit-frontchallenge/static/js/main.0ec8e438.chunk.js.map",
+    "runtime-main.js": "/robit-frontchallenge/static/js/runtime-main.b2d82052.js",
+    "runtime-main.js.map": "/robit-frontchallenge/static/js/runtime-main.b2d82052.js.map",
+    "static/js/2.e9fc8e97.chunk.js": "/robit-frontchallenge/static/js/2.e9fc8e97.chunk.js",
+    "static/js/2.e9fc8e97.chunk.js.map": "/robit-frontchallenge/static/js/2.e9fc8e97.chunk.js.map",
+    "index.html": "/robit-frontchallenge/index.html",
+    "static/css/main.77062605.chunk.css.map": "/robit-frontchallenge/static/css/main.77062605.chunk.css.map",
+    "static/js/2.e9fc8e97.chunk.js.LICENSE.txt": "/robit-frontchallenge/static/js/2.e9fc8e97.chunk.js.LICENSE.txt",
+    "static/media/img_platform_01.e8f9f09b.png": "/robit-frontchallenge/static/media/img_platform_01.e8f9f09b.png",
+    "static/media/img_platform_02.cc318202.png": "/robit-frontchallenge/static/media/img_platform_02.cc318202.png",
+    "static/media/img_platform_03.c058c795.png": "/robit-frontchallenge/static/media/img_platform_03.c058c795.png",
+    "static/media/img_team.8a33fb2c.png": "/robit-frontchallenge/static/media/img_team.8a33fb2c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2d82052.js",
+    "static/js/2.e9fc8e97.chunk.js",
+    "static/css/main.77062605.chunk.css",
+    "static/js/main.0ec8e438.chunk.js"
+  ]
+}
